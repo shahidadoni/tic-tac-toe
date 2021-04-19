@@ -2,11 +2,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Learn More
-
-Getting started with react: https://www.youtube.com/watch?v=iE2riYcRUDQ
-
-
 ## Available Scripts
 
 In the project directory, you can run:
@@ -23,7 +18,6 @@ You will also see any lint errors in the console.
 
 ![Demo](public/tic-tac-toe.gif)
 
-Working Demo: https://engineerchirag.github.io/react-games/
+Working Demo: https://shahidadoni.github.io/tic-tac-toe/
 
-Find me on Twitter, LinkedIn, Facebook, or any social platform @engineerchirag.
-Author: [Chirag Goel](http://www.engineerchirag.in)
+
